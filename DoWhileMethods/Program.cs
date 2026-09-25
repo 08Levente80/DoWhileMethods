@@ -159,9 +159,6 @@ namespace DoWhileMethods //Mindig egyezen meg a kódban lévő namespace név a 
                 }
             } while (valasztas != 3);
 
-            Console.WriteLine();
-            Console.WriteLine();
-
             Console.ReadLine();
         }
     }
